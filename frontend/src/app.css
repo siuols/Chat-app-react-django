@@ -1,0 +1,24 @@
+textarea {
+  width: 100%;
+}
+
+.container {
+  width: 500px;
+  height: 800px;
+  margin: auto;
+}
+
+.chat {
+  border: 3px solid seagreen;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
