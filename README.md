@@ -16,8 +16,8 @@ DRF: https://www.django-rest-framework.org/<br />
 Redis: https://redis.io/docs/getting-started/installation/install-redis-on-linux/<br />
 Django Channels: https://channels.readthedocs.io/en/stable/index.html<br />
 DRF Channels: https://djangochannelsrestframework.readthedocs.io/en/latest/<br />
-Redis-Server: https://pypi.org/project/redis-server/
-Django Corsheaders: https://pypi.org/project/django-cors-headers/
+Redis-Server: https://pypi.org/project/redis-server/<br />
+Django Corsheaders: https://pypi.org/project/django-cors-headers/<br />
 VITE: https://www.npmjs.com/package/vite
 
 ## To run the project
