@@ -22,7 +22,7 @@ VITE: https://www.npmjs.com/package/vite
 
 ## To run the project
 1. Clone the app: git clone https://github.com/siuols/Chat-app-react-django.git
-  a. Backend
+2. Backend
     1. Create virtual environment: virtualenv env
     2. Activate the environment ```bash $ source .env/bin/activate```
     3. Install all the packages ```bash $ pip install -r requirements.txt```
@@ -32,7 +32,7 @@ VITE: https://www.npmjs.com/package/vite
         Fill in all the details on the terminal to create the superuser
     7. Run the backend server ```bash $ python manage.py runserver```
     8. Visit the server link ```bash $ http://localhost:8000/```
-  b. Frontend
+3. Frontend
     1. Navigate inside the project ```bash $ cd frontend ```
     2. Install vite ```bash $ npm i vite```
     3. ```bash $ npm i ```
