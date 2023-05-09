@@ -1,4 +1,4 @@
-# Chat App (Real-time) in Django  and React
+# Chat App (Real-time) in Django and React
 
 # Description
 This project shows how an chat app created in django as a backend and react as frontend
@@ -11,13 +11,15 @@ Frontend: ReactJS
 Python3, Redis Server and virtual environment
 
 ## Plugins used:
+
 Django: https://docs.djangoproject.com/en/4.0/topics/install/#installing-official-release<br />
-DRF: https://www.django-rest-framework.org/<br />
-Redis: https://redis.io/docs/getting-started/installation/install-redis-on-linux/<br />
 Django Channels: https://channels.readthedocs.io/en/stable/index.html<br />
-DRF Channels: https://djangochannelsrestframework.readthedocs.io/en/latest/<br />
-Redis-Server: https://pypi.org/project/redis-server/<br />
 Django Corsheaders: https://pypi.org/project/django-cors-headers/<br />
+DRF: https://www.django-rest-framework.org/<br />
+DRF Channels: https://djangochannelsrestframework.readthedocs.io/en/latest/<br />
+Redis: https://redis.io/docs/getting-started/installation/install-redis-on-linux/<br />
+Redis-Server: https://pypi.org/project/redis-server/<br />
+Node js: https://nodejs.org/en/download/package-manager
 VITE: https://www.npmjs.com/package/vite
 
 ## To run the project
