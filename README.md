@@ -4,7 +4,7 @@
 This project shows how an chat app created in django as a backend and react as frontend
 
 ## Technology Stack
-Backend: Django, Django Rest Framework, Django Channels, Redis, Django Corsheaders
+Backend: Django, Django Rest Framework, Django Corsheaders, Django Channels, Redis <br />
 Frontend: ReactJS
 
 ## Prerequisites: 
