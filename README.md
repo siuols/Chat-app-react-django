@@ -27,8 +27,8 @@ VITE: https://www.npmjs.com/package/vite
 2. Backend
     1. Create virtual environment: virtualenv env
     2. Activate the environment ```bash $ source .env/bin/activate```
-    3. Install all the packages ```bash $ pip install -r requirements.txt```
-    4. Navigate inside the project ```bash $ cd backend```
+    3. Navigate inside the project ```bash $ cd backend```
+    4. Install all the packages ```bash $ pip install -r requirements.txt```
     5. Migrate ```bash $ python manage.py migrate```
     6. Create a superuser ```bash $ python manage.py createsuperuser``` <br />
         Fill in all the details on the terminal to create the superuser
