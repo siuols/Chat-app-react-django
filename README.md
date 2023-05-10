@@ -19,7 +19,7 @@ DRF: https://www.django-rest-framework.org/<br />
 DRF Channels: https://djangochannelsrestframework.readthedocs.io/en/latest/<br />
 Redis: https://redis.io/docs/getting-started/installation/install-redis-on-linux/<br />
 Redis-Server: https://pypi.org/project/redis-server/<br />
-Node js: https://nodejs.org/en/download/package-manager
+Node js: https://nodejs.org/en/download/package-manager<br />
 VITE: https://www.npmjs.com/package/vite
 
 ## To run the project
